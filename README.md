@@ -24,3 +24,32 @@ C++编程能力相关
 
 围绕一道例题展开：
 poj2318(类似于Alarm，二分点和直线关系?)
+
+计划采用: leetcode?
+
+leetcode 一题多解 读代码 调bug练习
+1. two sum. 写个双重for循环
+9. palindrome number 数字到字符串转换判断回文数
+13. Roman to Integer 转换罗马数字字符串到阿拉伯数字
+14. longest common prefix 给n个字符串寻找最长公共前缀
+20 valid parentheses 判断合法括号序列（稍微需要了解下括号序列的性质）
+21 merge two sorted lists 合并两个有序单向链表（应当能看示意图和结构体定义，了解什么是链表）
+26 有序数组原地去重
+27 数组中移除某个数值
+28 字符串暴力匹配
+35 写个二分查找
+53 最大子区间和（分治 or 线性？）
+58 length of last word字符串split然后取最后一项长度
+66 高精度+1
+67 高精度二进制加法
+69 sqrt(x) 整数开平方 二分/牛顿迭代 可以用来介绍注意溢出 
+
+204. 质数筛法
+
+640. Solve the Equation 处理字符串解一元一次方程
+43. 高精度乘法
+68. Text Justification 按要求给单词排版
+749. Contain Virus 二维网格时序状态模拟
+2056. Number of Valid Move Combinations On Chessboard 基于国际象棋棋盘 二维棋盘上的枚举
+1483. Kth Ancestor of a Tree Node
+
